@@ -13,4 +13,8 @@ class User < ActiveRecord::Base
      stripe_customer
    end
   end
+
+  def subscribed?
+    stripe_subscription_id? || (expires_at? && time.zone.now < expires_at)
+  end
 end
