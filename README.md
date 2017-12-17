@@ -55,8 +55,8 @@ As a user I can:
 
 ### Still To Do
 
-- [ ] Add charge model
-- [ ] Display charges in the account page
+- [x] Add charge model
+- [x] Display charges in the account page
 - [ ] Making PDF receipts
 - [ ] Rendering PDF receipts
 - [ ] Add admin (optional)
