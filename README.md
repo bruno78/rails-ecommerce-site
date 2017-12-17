@@ -2,6 +2,8 @@
 
 _...project ongoing_
 
+The mains purpose of this application is to show how to implement stripe API.
+
 ### Introduction
 
 [Stripe](https://stripe.com) provides compliance with Payment Card Industry Data Security Standards (PCI-DSS). [Stripe](https://stripe.com) is a JavaScript script that generates a “Pay with Card” button and form. The script submits the visitor’s credit card data to Stripe and obtains an authorization token. Your application uses the authorization token to initiate a payment so the visitor’s credit card data is never stored or exposed by your application.
@@ -57,8 +59,8 @@ As a user I can:
 
 - [x] Add charge model
 - [x] Display charges in the account page
-- [ ] Making PDF receipts
-- [ ] Rendering PDF receipts
+- [x] Making PDF receipts
+- [x] Rendering PDF receipts
 - [ ] Add admin (optional)
 - [ ] Decide what service to offer (optional)
 - [ ] Style it (optional)
