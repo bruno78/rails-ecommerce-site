@@ -60,5 +60,5 @@ As a user I can:
 - [ ] Making PDF receipts
 - [ ] Rendering PDF receipts
 - [ ] Add admin (optional)
-- [ ] Decide what service to offer (optinal)
-- [ ] Style it
+- [ ] Decide what service to offer (optional)
+- [ ] Style it (optional)
